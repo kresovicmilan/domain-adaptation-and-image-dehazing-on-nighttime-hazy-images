@@ -1,7 +1,7 @@
 # Domain-adaptation-and-image-dehazing-on-nighttime-hazy-images
 Coursework project: Advanced Image Processing and Deep learning - [UJM](https://www.univ-st-etienne.fr/fr/index.html), France
 
-- Project owners: [Milan Kresovic](https://github.com/kresovicmilanhttps://github.com/kresovicmilan), [David Estrada](https://www.linkedin.com/in/dnde7/), [Thong Nguyen](https://github.com/ThongNguyen551).
+- Project owners: [Milan Kresovic](https://github.com/kresovicmilan), [David Estrada](https://www.linkedin.com/in/dnde7/), [Thong Nguyen](https://github.com/ThongNguyen551).
 - This project is inspired from this [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shao_Domain_Adaptation_for_Image_Dehazing_CVPR_2020_paper.pdf) and this [project](https://github.com/HUSTSYJ/DA_dahazing) to implement a domain adaptation framework for nighttime image dehazing.
 
 ## Evironment and Packages
